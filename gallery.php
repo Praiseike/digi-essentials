@@ -13,7 +13,7 @@
 
 </head>
 
-<body class="bg-dark">
+<body>
 	<main>	
 		<nav class="navbar navbar-expand-lg navbar-dark px-4 bg-transparent">
 			<a class="navbar-brand" href="index.php">
